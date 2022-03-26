@@ -1,3 +1,3 @@
 # Merge confict 
 
-## updated and add conflict
+## update and add conflict
